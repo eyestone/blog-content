@@ -108,5 +108,6 @@ android手机的订阅说明，请其它有兴趣的同学继续补充。
 ---
 经测试，还是在手机上安装专用的RSS订阅软件比较好，苹果手机推荐Newsify.
 
--[] hello 
--[X] ~~good morning~~
+- [] hello 
+
+- [X] ~~good morning~~
