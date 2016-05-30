@@ -32,6 +32,7 @@ title = "github博客使用说明"
 ```
 $ cd blog
 $ git clone https://github.com/eyestone/eyestone.github.io.git public 
+$ git clone https://github.com/eyestone/blog-content.git content 
 ```
 
 ### 3.用markdown语法撰写博客
@@ -103,3 +104,6 @@ $ ./deploy.sh
 * 再到浏览器的书签图标中点击“订阅”
 
 android手机的订阅说明，请其它有兴趣的同学继续补充。
+
+---
+经测试，还是在手机上安装专用的RSS订阅软件比较好，苹果手机推荐Newsify.
