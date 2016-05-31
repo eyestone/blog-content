@@ -108,6 +108,21 @@ android手机的订阅说明，请其它有兴趣的同学继续补充。
 ---
 经测试，还是在手机上安装专用的RSS订阅软件比较好，苹果手机推荐Newsify.
 
-- [] hello 
+---
+markdown 新功能测试
 
-- [X] ~~good morning~~
+-[] hello 
+-[X] ~~good morning~~
+
+```flow
+st=>start: Start:>https://www.zybuluo.com
+io=>inputoutput: verification
+op=>operation: Your Operation
+cond=>condition: Yes or No?
+sub=>subroutine: Your Subroutine
+e=>end
+
+st->io->op->cond
+cond(yes)->e
+cond(no)->sub->io
+```
