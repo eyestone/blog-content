@@ -5,7 +5,6 @@ tags = ["任务"]
 title = "任务列表"
 
 +++
-<img src="http://hiphotos.baidu.com/zhidao/pic/item/cefc1e178a82b90165852782708da9773912ef53.jpg" width = "300" height = "200" alt="图片名称" align=center />
 ### **方法**
 
 - 1.每天查看ui、后台、管理端web、android、ios版本进度，记录问题
