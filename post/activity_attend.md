@@ -1,7 +1,7 @@
 +++
 categories = ["约定"]
 date = "2016-06-27T14:44:28+08:00"
-draft = true
+draft = false 
 tags = ["json"]
 title = "关于活动报名信息的json格式约定"
 author = "freeopen"
