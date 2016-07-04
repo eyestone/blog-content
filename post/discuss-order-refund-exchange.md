@@ -11,7 +11,7 @@ title = "关于订单和退换货重新设计的讨论"
 ### 设计原则
 
 - 将各个业务模块分离开，保证业务逻辑的独立性
-- 统一各个表的id，使用java写一个long型的uuid生成算法
+- 统一各个表的id，使用java写一个long型的uuid生成算法 -- 改所有表的uuid为非自增，同时修改
 
 ### 订单
 
@@ -34,6 +34,8 @@ title = "关于订单和退换货重新设计的讨论"
 
 - 1.3 delivery_method表
  - 添加一个福米价
+
+- 1.4 order_process表改成对应order_detail,order_process的内容可以合并到卖法中
 
 #### 2.业务过程梳理
 
