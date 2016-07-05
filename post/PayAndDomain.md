@@ -60,6 +60,14 @@ title = "支付及签证、活动设计"
 - 手机端从支付宝服务器获取支付结果
 - 将支付结果展示给用户
 
+#### 4. 退款请求
+
+- [doc](https://doc.open.alipay.com/doc2/detail?treeId=66&articleId=103600&docType=1)
+
+#### 5. 退款通知
+
+- [doc](https://doc.open.alipay.com/doc2/detail.htm?spm=a219a.7629140.0.0.5zeLrC&treeId=66&articleId=103601&docType=1)
+
 #### 表结构
 
 - order_id
